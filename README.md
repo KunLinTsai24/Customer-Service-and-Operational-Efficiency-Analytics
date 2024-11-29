@@ -38,21 +38,15 @@ The analysis highlights several key factors influencing customer satisfaction an
 
 ### Key Drivers of Customer Satisfaction
 
-- **Faster Resolutions Drive Higher Scores:**  
-    Interactions resolved within 3 hours achieved an average CSAT score of 4.32, whereas issues resolved after 72 hours dropped significantly to 3.12. This highlights the critical role of swift response times in maintaining customer satisfaction.
-- **Tenure’s Impact on Performance:**  
-    Agents with over 61-90 days of experience outperformed newer agents in training, achieving CSAT scores of 4.35 compared to 4.15. This underscores the value of agent expertise and the importance of comprehensive training programs.
-- **Cancellations and Product Inquiries Lagging:**  
-    These categories recorded some of the lowest CSAT scores, with cancellations at 3.99 and product inquiries at 4.04. This suggests ongoing issues with resolution processes or a lack of effective communication, leading to customer dissatisfaction.
+- **Faster Resolutions Drive Higher Scores:** Interactions resolved within 3 hours achieved an average CSAT score of 4.32, whereas issues resolved after 72 hours dropped significantly to 3.12. This highlights the critical role of swift response times in maintaining customer satisfaction.
+- **Tenure’s Impact on Performance:** Agents with over 61-90 days of experience outperformed newer agents in training, achieving CSAT scores of 4.35 compared to 4.15. This underscores the value of agent expertise and the importance of comprehensive training programs.
+- **Cancellations and Product Inquiries Lagging:** These categories recorded some of the lowest CSAT scores, with cancellations at 3.99 and product inquiries at 4.04. This suggests ongoing issues with resolution processes or a lack of effective communication, leading to customer dissatisfaction.
 
 ### Optimizing Operational Efficiency
 
-- **Email Channel’s Poor Performance:**  
-    The email channel recorded the lowest CSAT score of 3.90, compared to inbound calls (4.25) and outbound calls (4.27). This indicates possible inefficiencies in written communication, delayed responses, or resolution clarity, requiring immediate attention.
-- **Morning Shift Challenges:**  
-    The morning shift underperformed across all metrics, achieving a CSAT score of 4.19 compared to the evening (4.28) and night (4.29) shifts. Despite no noticeable difference in workload, this trend suggests readiness issues or operational gaps during morning hours.
-- **Underperforming Managers:**  
-    Managers Olivia Tan and William Kim consistently scored the lowest, with CSAT scores of 4.11 and 4.12, respectively. This highlights potential leadership or team management issues impacting agent performance and customer satisfaction.
+- **Email Channel’s Poor Performance:** The email channel recorded the lowest CSAT score of 3.90, compared to inbound calls (4.25) and outbound calls (4.27). This indicates possible inefficiencies in written communication, delayed responses, or resolution clarity, requiring immediate attention.
+- **Morning Shift Challenges:** The morning shift underperformed across all metrics, achieving a CSAT score of 4.19 compared to the evening (4.28) and night (4.29) shifts. Despite no noticeable difference in workload, this trend suggests readiness issues or operational gaps during morning hours.
+- **Underperforming Managers:** Managers Olivia Tan and William Kim consistently scored the lowest, with CSAT scores of 4.11 and 4.12, respectively. This highlights potential leadership or team management issues impacting agent performance and customer satisfaction.
 
 # Recommendations
 
@@ -66,5 +60,4 @@ The analysis highlights several key factors influencing customer satisfaction an
 
 - **Incomplete Customer Feedback Data:** Missing values in the "Customer Remarks" field were excluded from the analysis, as they provided insufficient information to assess customer sentiment or CSAT drivers effectively.
 - **Equal Weighting of Categories:** The analysis treats each category within variables, such as interaction type or shift, as equally important without considering the differing volume or frequency of interactions across these categories, which may influence overall CSAT scores.
-- **Simplified One-Dimensional Analysis:**  
-    The analysis focused on evaluating variables individually rather than exploring multi-dimensional relationships, potentially overlooking complex interactions between variables that might influence CSAT scores.
+- **Simplified One-Dimensional Analysis:** The analysis focused on evaluating variables individually rather than exploring multi-dimensional relationships, potentially overlooking complex interactions between variables that might influence CSAT scores.
